@@ -1,5 +1,9 @@
 # A Simple Text Editor with PyQt
 
+## Purpose 
+
+This project was created to explore Qt designer and PyQt5 library in a nutshell
+
 ## Installation
 
 1) Clone this directory to local machine
@@ -12,7 +16,7 @@
 
 ## UI Specification
 
-1) There are only two ui files one for the maain editor and the other for the formatting box
+1) There are only two ui files one for the main editor and the other for the formatting box
 
 2) Both ui file were generated using Qt designer
 
